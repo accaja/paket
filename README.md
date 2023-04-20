@@ -1,3 +1,4 @@
+![logo-lps](https://user-images.githubusercontent.com/130748953/233416430-64cc41f1-6176-41f9-a171-6699ca377ccb.png)
 ![IMG_20230420_222047](https://user-images.githubusercontent.com/130748953/233413030-96c58725-b4d1-4e2e-bd7f-71af72ab139b.jpg)
 ![IMG_20230420_222047](https://user-images.githubusercontent.com/130748953/233413126-ae4d026e-722d-434b-b367-7188624b816e.jpg)
 ![IMG_20230420_171900](https://user-images.githubusercontent.com/130748953/233408880-bda007bc-1729-4494-aecf-dd3a55cf6d5d.jpg)
