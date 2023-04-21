@@ -17,7 +17,10 @@
 ![IMG-20230418-WA0080](https://user-images.githubusercontent.com/130748953/232762415-d59a2dab-260a-4518-8b1e-02a20cbb9498.jpg)
 ![images (1) (14)](https://user-images.githubusercontent.com/130748953/232761104-485b2383-9ae0-4474-ba7e-5e0043bacbce.jpeg)
 ![images (1) (13)](https://user-images.githubusercontent.com/130748953/232760404-58763da1-60f9-433a-8580-05e673e0cb5c.jpeg)
-![images (1) (11)](https://user-images.githubusercontent.com/130748953/232758621-fe194dec-d619-4f77-9e32-5f970e3ede3d.jpeg)
+![images (1) (11)](https://user-images.githubusercontent.com/130748953/23275![download (2)](https://user-images.githubusercontent.com/130748953/233576242-a73ab040-8040-4a49-88c3-5acf616bc5b1.png)
+![images (10)](https://user-images.githubusercontent.com/130748953/233576247-833657fd-c2eb-487a-9eee-7bd992aac4b8.png)
+![images (1) (15)](https://user-images.githubusercontent.com/130748953/233576253-69f601f6-b328-4cf8-841f-35ed74384742.jpeg)
+8621-fe194dec-d619-4f77-9e32-5f970e3ede3d.jpeg)
 ![IMG_20230418_172938](https://user-images.githubusercontent.com/130748953/232758628-c3fc45a8-2041-4f34-b111-4158603ebb74.jpg)
 ![images (1) (12)](https://user-images.githubusercontent.com/130748953/232758635-1e39c288-6f42-4422-be79-f8fbaa33ab03.jpeg)
 ![Shopee](https://user-images.githubusercontent.com/130748953/232234725-b1611217-21bf-48c6-adb6-580dddb95048.png)
@@ -26,6 +29,7 @@
 ![images (17)](https://user-images.githubusercontent.com/130748953/232234790-eeb8aa69-72e6-49fe-9c3f-f5c16f8d623b.jpeg)
 ![images (15)](https://user-images.githubusercontent.com/130748953/232234794-e4918834-6f5e-4822-9f61-53de0fe3626e.jpeg)
 ![images (12)](https://user-images.githubusercontent.com/130748953/232234796-a89e09bb-9a3e-4236-beef-4c25c69bbb3b.jpeg)
+![images (11)](https://user-images.githubusercontent.com/130748953/233576221-b7a90cac-3f7c-4e93-bef7-0f70fd4cb967.png)
 
 # paket
 Shopee Express 
